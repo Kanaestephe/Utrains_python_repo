@@ -147,7 +147,7 @@ for catalog in catalog_book:
 data_file.close()
 
 ```
-## 4- You are working on a server, there is a need of a python script to check if each server is up or down.
+## 4- You are working on a server, there is a need of a python script to check if a server is up or down.
 
 ``` python
 import socket 
